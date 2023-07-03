@@ -29,7 +29,7 @@ mas adelante pienso implementar una selección de personaje y ya estoy trabajand
 
 -------------------------------------------------------------
 
-la segunda parte del curso me enfoque mas en corregir errores que iban surgiendo mas que en agregar las cosas que prometí en el anterior readme. por lo que el juego me resultó muy incompleto, pero bueno... en todo caso se las cosas que faltan, como agregarlas y en cambio, se las ventajas que tiene y como funcionan, todo esto gracias al curso y a los compañeros que me guiaron en el proceso y me ayudaron a despejar dudas y demas. comento un poco como terminó el juego por los bugs que aparecieron.
+la segunda parte del curso me enfoque en corregir errores que iban surgiendo mas que en agregar las cosas que prometí en el anterior readme. por lo que el juego me resultó muy incompleto, pero bueno... en todo caso se las cosas que faltan, como agregarlas y en cambio, se las ventajas que tiene y como funcionan, todo esto gracias al curso y a los compañeros que me guiaron en el proceso y me ayudaron a despejar dudas y demas. comento un poco como terminó el juego por los bugs que aparecieron.
 
 en un principio el juego contaba con varias clases de enemigos, tiempo entre disparos, contador de munición, selección de personajes en la pantalla principal, un enemigo final y estaba pensando en el segundo nivel.
 
